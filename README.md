@@ -1,5 +1,6 @@
-Sencha-Touch-2
+WOWLABS Front End DEV Environment
 ==============
+forked this project because it has the install binaries necessary for the old sencha sdk 2.0.0-beta3 that are required to build the wowlabs front end
 
 The tools required to get Sencha Touch 2 to work with auto complete
 
